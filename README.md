@@ -1,8 +1,9 @@
 # Gökalp Vural | Portfolyo (v2)
 
-Ankara'da yaşayan junior yazılım geliştirici Gökalp Vural'ın kişisel portfolyo sitesinin yenilenmiş sürümü.
-İlk sürüm ayrı bir depoda duruyor: [gokalp-vural-portfolio](https://github.com/pietro379/gokalp-vural-portfolio)
-(`v1-archive` etiketi, yayındaki hâlini işaret eder).
+Ankara'da yaşayan junior yazılım geliştirici Gökalp Vural'ın kişisel portfolyo sitesinin sade tasarımlı sürümü.
+
+> Bu depo arşivlenmiştir. Aynı içeriğin renkli temalı ve aktif olarak geliştirilen sürümü
+> [gokalp-vural-portfolio](https://github.com/pietro379/gokalp-vural-portfolio) deposundadır.
 
 ## Özellikler
 
